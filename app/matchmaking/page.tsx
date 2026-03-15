@@ -303,3 +303,5 @@ export default function MatchmakingPage() {
 const primaryBtnStyle: React.CSSProperties = { width: '100%', background: 'linear-gradient(135deg, #c2185b, #880e4f)', color: '#fff', border: 'none', borderRadius: 14, padding: '15px', fontSize: 16, fontWeight: 800, cursor: 'pointer', transition: 'opacity 0.2s' };
 const secondaryBtnStyle: React.CSSProperties = { background: '#f5f5f5', color: '#555', border: 'none', borderRadius: 14, padding: '15px', fontSize: 15, fontWeight: 700, cursor: 'pointer' };
 const uploadZoneStyle: React.CSSProperties = { padding: '28px 20px', borderRadius: 16, textAlign: 'center', cursor: 'pointer', transition: 'all 0.2s' };
+
+// trigger build 1773600508137
